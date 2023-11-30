@@ -23,6 +23,7 @@ Steps to increase model performance:
 Changed binning for income amount and changed the number of epochs by increasing it. 
 
 Summary
+
 In summary, the deep learning model exhibited potential but I did not have a great model and stuggled to get proper data. A recommendation for addressing this classification problem is to explore more complex architectures, considering the possibility of overfitting. Additionally, fine-tuning hyperparameters and conducting a more exhaustive search for optimal configurations may lead to improved model performance
 
 References:
