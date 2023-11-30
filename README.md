@@ -29,6 +29,7 @@ In summary, the deep learning model exhibited potential but I did not have a gre
 References:
 
 Ask BCS was used to trouble shoot some error and help with the decoding 
+
 ChatGPT was used throughout this homework assignment
 
 Tensorflow: https://www.tensorflow.org/tutorials
